@@ -17,38 +17,36 @@ The project is about robotic rovers on Mars used to navigate in a rectangular pl
 
 # Tutorial
 
-# Code document
 
-## Methods
-
+# Code Documentation
+### Methods:
  > 1. movement_of_rover(int width, int height, String[] rover_pos_arr, String rover_mov):
-### What Function Does
+##### Description
 	- Method perforns all the new directions and movements that the rover must take to navigate around the terrain
-### Parameters
+##### Parameters
     - width : first integer, width of the plateau
     - height : second integer, height of the plateau
     - rover_pos_arr : String array, containing the x & y coordinates and the direction of the rover
     - rover_mov : String, with a new position and direction of the rover
-### Returns
+##### Returns
 	- String with new position and direction of the rover
-
 > 2. rover_within_bounds(int width, int height, int rover_x, int rover_y)
-### What Function Does
-	- 
-### Parameters
+##### What Function Does
+	- Checks if the rover's is outside or inside the plateau.
+##### Parameters
     - width : first integer
     - height : second integer
     - rover_x : third integer
     - rover_y : fourth integer
-### Returns
+##### Returns
 	- True, if the rover is out of bounds and false otherwise
 
 > 3. string_splitter(String line)
-### What Function Does
+##### What Function Does
 	- splits a string using a space as the regular expression
-### Parameters
+##### Parameters
     - line : String
-### Returns
+##### Returns
 	- String array
 
 # Assumptions
@@ -57,5 +55,5 @@ The project is about robotic rovers on Mars used to navigate in a rectangular pl
 2. Plateau will always have two rovers
 
 # Contacts
-### Email : millieniummorapedi0212@gmail.com
-### github : https://github.com/Mahlatse-27/Mars-Rover-Challenge
+#### Email : millieniummorapedi0212@gmail.com
+#### github : https://github.com/Mahlatse-27/Mars-Rover-Challenge
