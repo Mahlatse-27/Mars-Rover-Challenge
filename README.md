@@ -52,7 +52,7 @@ The project is about robotic rovers on Mars used to navigate in a rectangular pl
 	- True, if the rover is out of bounds and false otherwise
 
 > 3. string_splitter(String line)
-##### What Function Does
+##### Description
 	- splits a string using a space as the regular expression
 ##### Parameters
     - line : String
