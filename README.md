@@ -2,7 +2,7 @@
 
 # Description
 
-The project is about robotic rovers on Mars used to navigate in a rectangular plateau. Objective is to get the complete view of the terrain to send back to Earth ass they are moved around the terrain by NASA. 
+The project is about 2 robotic rovers on Mars used to navigate in a rectangular plateau. Objective is to get the complete view of the terrain to send back to Earth as they are moved around the terrain by NASA. Rover's position is determined by the x and y coordinates. 
 
 # Installations
 
@@ -63,6 +63,8 @@ The project is about robotic rovers on Mars used to navigate in a rectangular pl
 
 1. Input will always be correct, it will follow the given standard
 2. Plateau will always have two rovers
+3. Plateau will always be a 2D-Plane
+4. Rovers will never get directions such as 'NW'/'SE' and the rest
 
 # Contacts
 #### Email : millieniummorapedi0212@gmail.com
