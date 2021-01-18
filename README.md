@@ -19,7 +19,7 @@ The project is about 2 robotic rovers on Mars used to navigate in a rectangular 
 ##### Installing Java JDK
 ![Screenshot (561)](https://user-images.githubusercontent.com/44344718/104879864-4dff1b80-5967-11eb-87f0-421f1f674e4a.png)
 ### Installing Eclipse IDE
-![Screenshot (557)](https://user-images.githubusercontent.com/44344718/104880422-31afae80-5968-11eb-8b2d-bc68391b2bf2.png)
+![Screenshot (557)](https://user-images.githubusercontent.com/44344718/104881883-c9160100-596a-11eb-82ae-41cca9e48789.png)
 ### I used Java, thus I had to choose Eclipse for Java Developers
 ![Screenshot (558)](https://user-images.githubusercontent.com/44344718/104880409-2eb4be00-5968-11eb-8f2d-bce91d8b4f0c.png)
 ### Since it is an already existing project it has to be imported
