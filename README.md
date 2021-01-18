@@ -24,6 +24,7 @@ The project is about robotic rovers on Mars used to navigate in a rectangular pl
 ##### I used Java, thus I had to choose Eclipse for Java Developers
 ![Screenshot (564)](https://user-images.githubusercontent.com/44344718/104880209-d5e52580-5967-11eb-804e-7b359984d83c.png)
 ##### Since it is an already existing project it has to be imported
+![Screenshot (565)](https://user-images.githubusercontent.com/44344718/104880939-21e49a00-5969-11eb-994d-f4662d411fe0.png)
 ![Screenshot (566)](https://user-images.githubusercontent.com/44344718/104880223-da114300-5967-11eb-8b6a-5182c1395d7b.png)
 ##### Browse through and select then click finish then just run the program
 
