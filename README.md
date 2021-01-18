@@ -17,7 +17,9 @@ The project is about robotic rovers on Mars used to navigate in a rectangular pl
 
 # Tutorial
 ![Screenshot (561)](https://user-images.githubusercontent.com/44344718/104879864-4dff1b80-5967-11eb-87f0-421f1f674e4a.png)
-
+![Screenshot (562)](https://user-images.githubusercontent.com/44344718/104880198-d382cb80-5967-11eb-8ff2-e08259c14da5.png)
+![Screenshot (564)](https://user-images.githubusercontent.com/44344718/104880209-d5e52580-5967-11eb-804e-7b359984d83c.png)
+![Screenshot (566)](https://user-images.githubusercontent.com/44344718/104880223-da114300-5967-11eb-8b6a-5182c1395d7b.png)
 
 
 # Code Documentation
