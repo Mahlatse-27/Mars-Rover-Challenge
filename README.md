@@ -2,7 +2,7 @@
 
 # Description
 
-The project is about robotic rovers on Mars used to navigate in a rectangular plateau. Objective is to get the complete view of the terrain to send back to Earth ass they are moved around the terrain by NASA.
+The project is about robotic rovers on Mars used to navigate in a rectangular plateau. Objective is to get the complete view of the terrain to send back to Earth ass they are moved around the terrain by NASA. 
 
 # Installations
 
@@ -16,17 +16,17 @@ The project is about robotic rovers on Mars used to navigate in a rectangular pl
 >> On Eclipse Installer Oomph, pick Eclipse for Jva Developers
 
 # Tutorial
-![Screenshot (561)](https://user-images.githubusercontent.com/44344718/104879864-4dff1b80-5967-11eb-87f0-421f1f674e4a.png)
 ##### Installing Java JDK
+![Screenshot (561)](https://user-images.githubusercontent.com/44344718/104879864-4dff1b80-5967-11eb-87f0-421f1f674e4a.png)
+### Installing Eclipse IDE
 ![Screenshot (557)](https://user-images.githubusercontent.com/44344718/104880422-31afae80-5968-11eb-8b2d-bc68391b2bf2.png)
-##### Installing Eclipse IDE
+### I used Java, thus I had to choose Eclipse for Java Developers
 ![Screenshot (558)](https://user-images.githubusercontent.com/44344718/104880409-2eb4be00-5968-11eb-8f2d-bce91d8b4f0c.png)
-##### I used Java, thus I had to choose Eclipse for Java Developers
+### Since it is an already existing project it has to be imported
 ![Screenshot (564)](https://user-images.githubusercontent.com/44344718/104880209-d5e52580-5967-11eb-804e-7b359984d83c.png)
-##### Since it is an already existing project it has to be imported
 ![Screenshot (565)](https://user-images.githubusercontent.com/44344718/104880939-21e49a00-5969-11eb-994d-f4662d411fe0.png)
 ![Screenshot (566)](https://user-images.githubusercontent.com/44344718/104880223-da114300-5967-11eb-8b6a-5182c1395d7b.png)
-##### Browse through and select then click finish then just run the program
+### Browse through foloders and select Mars-Rovers-Challenge folder then click finish and finally run the program
 
 # Code Documentation
 ### Methods:
